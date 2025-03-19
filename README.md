@@ -145,9 +145,9 @@ pillow-heif
 Add any additional packages as necessary.
 
 ## Contributors
-Your Name  
-Email: your-email@example.com  
-LinkedIn: Your LinkedIn Profile
+Abhishikt Mahajan 
+Email: abhishiktmahajan@gmail.com
+LinkedIn: linkedin.com/in/abhishiktmahajan
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
